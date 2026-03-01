@@ -1,4 +1,4 @@
-# 🧠 SmartPrep AI - Automated Study Deck Generator
+# 🧠 SmartPrep AI - Automated Flashcard Generator
 
 Welcome to my SmartPrep API! I built this project to solve a problem I face as a student: spending too much time making flashcards instead of actually studying them. 
 
